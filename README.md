@@ -59,6 +59,11 @@ cd healthcare
 ```bash
 npm install
 ```
+ Or
+```
+npm i next@latest
+```
+
 
 ### Set Up Environment Variables
 
